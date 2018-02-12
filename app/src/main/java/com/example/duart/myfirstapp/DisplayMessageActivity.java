@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class DisplayMessageActivity extends AppCompatActivity {
+public class DisplayMessageActivity extends MainActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
